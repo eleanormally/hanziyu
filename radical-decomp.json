@@ -1,0 +1,1123 @@
+{
+  "⺄": {
+    "equivalent": "乙"
+  },
+  "⺌": {
+    "equivalent": "小"
+  },
+  "⺍": {
+    "equivalent": "小"
+  },
+  "⺗": {
+    "equivalent": "心"
+  },
+  "⺟": {
+    "equivalent": "毋"
+  },
+  "⺧": {
+    "equivalent": "牛"
+  },
+  "⺩": {
+    "equivalent": "玉"
+  },
+  "⺪": {
+    "equivalent": "疋"
+  },
+  "⺮": {
+    "equivalent": "竹"
+  },
+  "⺲": {
+    "equivalent": "网"
+  },
+  "⺳": {
+    "equivalent": "网"
+  },
+  "⺶": {
+    "equivalent": "羊"
+  },
+  "⺷": {
+    "equivalent": "羊"
+  },
+  "⺻": {
+    "equivalent": "聿"
+  },
+  "⺼": {
+    "equivalent": "肉"
+  },
+  "⻊": {
+    "equivalent": "足"
+  },
+  "⻌": {
+    "equivalent": "辵"
+  },
+  "⻍": {
+    "equivalent": "辵"
+  },
+  "⻏": {
+    "equivalent": "邑"
+  },
+  "⻖": {
+    "equivalent": "邑"
+  },
+  "㔾": {
+    "equivalent": "卩"
+  },
+  "一": {
+    "full": "də",
+    "reading": "də"
+  },
+  "丨": {
+    "full": "kə",
+    "reading": "kə"
+  },
+  "丬": {
+    "equivalent": "爿"
+  },
+  "丶": {
+    "full": "bə",
+    "reading": "bə"
+  },
+  "丿": {
+    "full": "zhə",
+    "reading": "zhə"
+  },
+  "乙": {
+    "full": "dv́niã",
+    "reading": "du̅nə"
+  },
+  "乚": {
+    "equivalent": "乙"
+  },
+  "亅": {
+    "full": "ki̗",
+    "reading": "ki̗"
+  },
+  "二": {
+    "full": "de̅",
+    "reading": "de̅"
+  },
+  "亠": {
+    "full": "be̅",
+    "reading": "be̅"
+  },
+  "人": {
+    "full": "zhu̠",
+    "reading": "zhu̠"
+  },
+  "亻": {
+    "equivalent": "人"
+  },
+  "儿": {
+    "full": "zhu̖xə",
+    "reading": "xu̖ə"
+  },
+  "入": {
+    "full": "bv̅chə",
+    "reading": "xv̅hə"
+  },
+  "八": {
+    "full": "zhv̖",
+    "reading": "zhv̖"
+  },
+  "冂": {
+    "full": "dúbù",
+    "reading": "dəbù"
+  },
+  "冖": {
+    "full": "dáchə",
+    "reading": "dáchə"
+  },
+  "冫": {
+    "full": "za̅",
+    "reading": "za̅"
+  },
+  "几": {
+    "full": "dúxuà",
+    "reading": "du̅xə"
+  },
+  "凵": {
+    "full": "kékə",
+    "reading": "kékə"
+  },
+  "刀": {
+    "full": "dúxà",
+    "reading": "dúxà"
+  },
+  "刂": {
+    "equivalent": "刀"
+  },
+  "力": {
+    "full": "zhĕlia̗",
+    "reading": "zhia̠"
+  },
+  "勹": {
+    "full": "zhe̖lia̗",
+    "reading": "zhiă"
+  },
+  "匕": {
+    "full": "zhùria̠",
+    "reading": "zhua̠rə"
+  },
+  "匚": {
+    "full": "ke̠hə",
+    "reading": "ke̠hə"
+  },
+  "匸": {
+    "equivalent": "匚"
+  },
+  "十": {
+    "full": "dŭ",
+    "reading": "dŭ"
+  },
+  "卜": {
+    "full": "zù",
+    "reading": "zù"
+  },
+  "卤": {
+    "equivalent": "鹵"
+  },
+  "卩": {
+    "full": "dúxù",
+    "reading": "du̅xə"
+  },
+  "厂": {
+    "full": "da̗",
+    "reading": "da̗"
+  },
+  "厶": {
+    "full": "zhésə",
+    "reading": "zhésə"
+  },
+  "又": {
+    "full": "dásə",
+    "reading": "dásə"
+  },
+  "口": {
+    "full": "ke̠lei̗",
+    "reading": "ke̠ilə"
+  },
+  "囗": {
+    "equivalent": "口"
+  },
+  "土": {
+    "full": "dŭhə",
+    "reading": "dŭhə"
+  },
+  "士": {
+    "equivalent": "土"
+  },
+  "夂": {
+    "equivalent": "夊"
+  },
+  "夊": {
+    "full": "zhe̖faŭ",
+    "reading": "zhe̖faŭ"
+  },
+  "夕": {
+    "full": "zhe̖fiâ",
+    "reading": "zhe̖fiâ"
+  },
+  "大": {
+    "full": "dăngə",
+    "reading": "dăngə"
+  },
+  "女": {
+    "full": "zhv́chø̃",
+    "reading": "zhv́chø̃"
+  },
+  "子": {
+    "full": "dágə̗tə",
+    "reading": "dágəte"
+  },
+  "宀": {
+    "full": "ba̅tuí",
+    "reading": "ba̅tuí"
+  },
+  "寸": {
+    "full": "dui̅xə",
+    "reading": "dui̅xə"
+  },
+  "小": {
+    "full": "ki̗pə̖",
+    "reading": "ki̗pe̖"
+  },
+  "尢": {
+    "full": "dăgua̠",
+    "reading": "dăgua̠"
+  },
+  "尣": {
+    "equivalent": "尢"
+  },
+  "尸": {
+    "full": "dúha̗",
+    "reading": "duáhə"
+  },
+  "屮": {
+    "full": "kékoù",
+    "reading": "kékoù"
+  },
+  "山": {
+    "full": "kékoù",
+    "reading": "kékoù"
+  },
+  "巛": {
+    "full": "zhv́chaúchaú",
+    "reading": "zhaúchə"
+  },
+  "巜": {
+    "equivalent": "巛"
+  },
+  "川": {
+    "equivalent": "巛"
+  },
+  "工": {
+    "full": "dai̅hə",
+    "reading": "dai̅hə"
+  },
+  "己": {
+    "full": "dúhou̖ria̠",
+    "reading": "duo̅ria̠"
+  },
+  "巾": {
+    "full": "dúxùgə",
+    "reading": "du̅xəgə"
+  },
+  "干": {
+    "full": "de̅gə",
+    "reading": "de̅gə"
+  },
+  "幺": {
+    "full": "zhéfeísə",
+    "reading": "zheífə"
+  },
+  "广": {
+    "full": "be̅fə",
+    "reading": "be̅fə"
+  },
+  "廴": {
+    "full": "dáhiésə",
+    "reading": "daísə"
+  },
+  "廾": {
+    "full": "dăgə",
+    "reading": "dăgə"
+  },
+  "弋": {
+    "full": "dv̆xiã",
+    "reading": "dv̆xiã"
+  },
+  "弓": {
+    "full": "dúhu̗hoúxə",
+    "reading": "duóxə"
+  },
+  "彐": {
+    "full": "dútø̅",
+    "reading": "dútø̅"
+  },
+  "彑": {
+    "equivalent": "彐"
+  },
+  "彡": {
+    "full": "zha̅fə",
+    "reading": "zha̅fə"
+  },
+  "彳": {
+    "full": "zha̅lə",
+    "reading": "zha̅lə"
+  },
+  "心": {
+    "full": "bv̖biãpə",
+    "reading": "bv̖biãpə"
+  },
+  "忄": {
+    "equivalent": "心"
+  },
+  "戈": {
+    "full": "zi̠chə̃",
+    "reading": "zi̠che"
+  },
+  "戶": {
+    "full": "da̗tou̖hə",
+    "reading": "dou̅tə"
+  },
+  "户": {
+    "equivalent": "戶"
+  },
+  "戸": {
+    "equivalent": "戶"
+  },
+  "手": {
+    "full": "de̅haĭ",
+    "reading": "de̅haĭ"
+  },
+  "扌": {
+    "equivalent": "手"
+  },
+  "支": {
+    "full": "dŭhuĭ",
+    "reading": "duĭhə"
+  },
+  "攴": {
+    "full": "dùhuĭ",
+    "reading": "duìhə"
+  },
+  "攵": {
+    "equivalent": "攴"
+  },
+  "文": {
+    "full": "be̅faŭ",
+    "reading": "be̅faŭ"
+  },
+  "斗": {
+    "full": "ziu̅hai̖",
+    "reading": "ziu̅hai̖"
+  },
+  "斤": {
+    "full": "da̖tou̅",
+    "reading": "da̖tou̅"
+  },
+  "方": {
+    "full": "be̅fe̖lia̖",
+    "reading": "bia̅fələ"
+  },
+  "无": {
+    "full": "de̅chai̖ngia̠",
+    "reading": "de̅chai̠ngə"
+  },
+  "旡": {
+    "equivalent": "无"
+  },
+  "日": {
+    "full": "ke̠leìhə",
+    "reading": "kei̠lə"
+  },
+  "曰": {
+    "equivalent": "日"
+  },
+  "月": {
+    "full": "zhe̠lia̗te̅",
+    "reading": "zhia̠le"
+  },
+  "木": {
+    "full": "dŭchiu̖",
+    "reading": "diu̠chə"
+  },
+  "欠": {
+    "full": "zhe̖fièsə",
+    "reading": "zheìsəê"
+  },
+  "止": {
+    "full": "ke̖gé",
+    "reading": "ke̖gé"
+  },
+  "歹": {
+    "full": "da̅tiébə",
+    "reading": "da̅tiébə"
+  },
+  "歺": {
+    "equivalent": "歹"
+  },
+  "殳": {
+    "full": "du̅xièhuísə",
+    "reading": "dui̅xuísə"
+  },
+  "毋": {
+    "full": "kédaíxàtə",
+    "reading": "kaíxàtə"
+  },
+  "母": {
+    "equivalent": "毋"
+  },
+  "比": {
+    "full": "dùrei̖gá",
+    "reading": "dui̖rua"
+  },
+  "毛": {
+    "full": "de̅haĭfia̠",
+    "reading": "dai̠fə"
+  },
+  "氏": {
+    "full": "zhu̗feĩsuíbə",
+    "reading": "zhu̗fuísə"
+  },
+  "气": {
+    "full": "zhe̖hø̅lia̠",
+    "reading": "zhèlia̠"
+  },
+  "水": {
+    "full": "dágia̗chau̗",
+    "reading": "diáchau̗"
+  },
+  "氵": {
+    "equivalent": "水"
+  },
+  "氺": {
+    "equivalent": "水"
+  },
+  "火": {
+    "full": "ba̖chv́",
+    "reading": "ba̖chv́"
+  },
+  "灬": {
+    "equivalent": "火"
+  },
+  "爪": {
+    "full": "da̗gou̖",
+    "reading": "dou̅gə"
+  },
+  "爫": {
+    "equivalent": "爪"
+  },
+  "父": {
+    "full": "zhv̖fiŭ",
+    "reading": "zhiu̠"
+  },
+  "爻": {
+    "full": "zhv̆fiŭ",
+    "reading": "zhiu̠fə"
+  },
+  "爿": {
+    "full": "dúlø̀fə",
+    "reading": "dùlø̀fə"
+  },
+  "片": {
+    "full": "zhe̖lø̅lə",
+    "reading": "zhø̅lə"
+  },
+  "牙": {
+    "full": "du̗hoŭxa̗",
+    "reading": "dou̠xa̗"
+  },
+  "牛": {
+    "full": "zhe̖hoŭ",
+    "reading": "zhoŭ"
+  },
+  "牜": {
+    "equivalent": "牛"
+  },
+  "犬": {
+    "full": "dăngia̠",
+    "reading": "dia̠ngə"
+  },
+  "犭": {
+    "equivalent": "犬"
+  },
+  "玄": {
+    "full": "be̅fǿfeísə",
+    "reading": "be̅feísə"
+  },
+  "玉": {
+    "full": "de̅gø̅bə",
+    "reading": "de̅gəbe"
+  },
+  "玊": {
+    "equivalent": "玉"
+  },
+  "王": {
+    "equivalent": "玉"
+  },
+  "瓜": {
+    "full": "da̗giésau̖",
+    "reading": "da̗hiésau̖"
+  },
+  "瓦": {
+    "full": "da̗hoúchia̠pə",
+    "reading": "daúchia̠pə"
+  },
+  "甘": {
+    "full": "dŭteìhə",
+    "reading": "duĭhə"
+  },
+  "生": {
+    "full": "zhe̖haĭhə",
+    "reading": "zhaĭhə"
+  },
+  "用": {
+    "full": "dúxiètei̅gə",
+    "reading": "die̅tei̅gə"
+  },
+  "田": {
+    "full": "ke̠leìgø̅",
+    "reading": "kei̠gø̅"
+  },
+  "疋": {
+    "full": "dáge̖zhiu̖",
+    "reading": "dai̅hiù"
+  },
+  "疒": {
+    "full": "be̅fìxə",
+    "reading": "bei̅xə"
+  },
+  "癶": {
+    "full": "dábiu̖bə̅",
+    "reading": "diu̅bə̅"
+  },
+  "白": {
+    "full": "bu̅doúte̅",
+    "reading": "buo̠tə̅"
+  },
+  "皮": {
+    "full": "zhe̠foùhuísə",
+    "reading": "zhou̠sə"
+  },
+  "皿": {
+    "full": "ke̠loùgei̅",
+    "reading": "kou̠gei̅"
+  },
+  "目": {
+    "full": "ke̠leìhei̅",
+    "reading": "kei̠"
+  },
+  "矛": {
+    "full": "dánge̅foùxâ",
+    "reading": "dángou̅xâ"
+  },
+  "矢": {
+    "full": "zhe̖hie̅sə",
+    "reading": "zhie̠sə"
+  },
+  "石": {
+    "full": "da̅lø̠lei̗",
+    "reading": "da̅lo̠lei̗"
+  },
+  "示": {
+    "full": "de̅hia̗pi̖",
+    "reading": "dia̠pi̖"
+  },
+  "礻": {
+    "equivalent": "示"
+  },
+  "禸": {
+    "full": "ke̠lia̗chézə",
+    "reading": "ke̠hia̖chézə"
+  },
+  "禾": {
+    "full": "de̅guìzə",
+    "reading": "dui̅zə"
+  },
+  "穴": {
+    "full": "ba̅tiéfiu̖",
+    "reading": "ba̅tiu̅"
+  },
+  "立": {
+    "full": "de̅ngui̖hə",
+    "reading": "dei̅ngə"
+  },
+  "竹": {
+    "full": "zhe̖lui̖tou̅xə",
+    "reading": "zhui̖tou̅xə"
+  },
+  "米": {
+    "full": "bi̖hai̅chiu̠",
+    "reading": "bi̖hai̅chiu̠"
+  },
+  "糸": {
+    "full": "zhécheísou̅xiãpə",
+    "reading": "zheísou̅xiãpə"
+  },
+  "糹": {
+    "equivalent": "糸"
+  },
+  "纟": {
+    "equivalent": "糸"
+  },
+  "缶": {
+    "full": "zhe̖haĭgézhə",
+    "reading": "zhe̖haĭgézhə"
+  },
+  "网": {
+    "full": "ke̠lia̗chv̆chaŭ",
+    "reading": "ke̠lia̗chaŭ"
+  },
+  "罒": {
+    "equivalent": "网"
+  },
+  "罓": {
+    "equivalent": "网"
+  },
+  "羊": {
+    "full": "bi̖hø̅haĭ",
+    "reading": "bi̖hai̠"
+  },
+  "羽": {
+    "full": "dúxaũfø̖lia̗zui̅",
+    "reading": "daúfø̖lia̗zui̅"
+  },
+  "老": {
+    "full": "dŭhuĭluíxə",
+    "reading": "duĭluíxə"
+  },
+  "耂": {
+    "equivalent": "老"
+  },
+  "而": {
+    "full": "di̅lø̠liágu̖",
+    "reading": "di̅lia̠gu̖"
+  },
+  "耒": {
+    "full": "de̅haĭchiu̖",
+    "reading": "dai̠chiu̖"
+  },
+  "耳": {
+    "full": "du̗geìhø̅hə",
+    "reading": "dui̅gø̅"
+  },
+  "聿": {
+    "full": "dútø̅hø̅gə",
+    "reading": "dø̅gə"
+  },
+  "肉": {
+    "full": "ke̠lia̗chv̖fiu̖",
+    "reading": "kia̠chiu̖fə"
+  },
+  "臣": {
+    "full": "du̗gei̅lei̗lei̅",
+    "reading": "dei̅lei̅"
+  },
+  "自": {
+    "full": "bu̅doúte̅hə",
+    "reading": "bou̠te̅hə"
+  },
+  "至": {
+    "full": "da̅fau̖haĭhə",
+    "reading": "dau̅haĭhə"
+  },
+  "臼": {
+    "full": "zhu̗tei̖leìhə",
+    "reading": "zhui̅leìhə"
+  },
+  "舌": {
+    "full": "zhe̅gai̅doúhə",
+    "reading": "zhai̅goúdə"
+  },
+  "舛": {
+    "full": "zhe̖fiâtie̅hou̅",
+    "reading": "zhe̖fiâtie̅hou"
+  },
+  "舟": {
+    "full": "ba̗doúxeĭbə̅",
+    "reading": "ba̗hoúxie̠"
+  },
+  "艮": {
+    "full": "dúte̅gósia̖",
+    "reading": "dúte̅gia̅"
+  },
+  "色": {
+    "full": "zhe̖fei̅gùfia̠",
+    "reading": "zhei̠gùfia̠"
+  },
+  "艸": {
+    "full": "kéchai̖geígai̖",
+    "reading": "kéchĕhaì"
+  },
+  "艹": {
+    "equivalent": "艸"
+  },
+  "虍": {
+    "full": "ge̖huíche̖guíxə",
+    "reading": "guĭcheĭxə"
+  },
+  "虫": {
+    "full": "ke̠lei̗ga̅sə",
+    "reading": "kei̠ga̅sə"
+  },
+  "血": {
+    "full": "bu̅doúgu̖hə",
+    "reading": "bou̠gu̖hə"
+  },
+  "行": {
+    "full": "zha̅lø̖hai̅xə",
+    "reading": "zha̅lø̖hai̅xə"
+  },
+  "衣": {
+    "full": "be̅fai̅ruíngə",
+    "reading": "bai̅ruíngə"
+  },
+  "衤": {
+    "equivalent": "衣"
+  },
+  "襾": {
+    "full": "du̗doúgu̖hə",
+    "reading": "doúgu̖hə"
+  },
+  "西": {
+    "equivalent": "襾"
+  },
+  "覀": {
+    "equivalent": "襾"
+  },
+  "見": {
+    "full": "ke̠leìhø̅fiú",
+    "reading": "kei̠hø̅fiú"
+  },
+  "见": {
+    "equivalent": "見"
+  },
+  "角": {
+    "full": "zhe̖fièdoúxèhaĭ",
+    "reading": "zhièdoúxaĭ"
+  },
+  "言": {
+    "full": "be̅hø̅lø̠lei̗",
+    "reading": "be̅lø̠lei̗"
+  },
+  "訁": {
+    "equivalent": "言"
+  },
+  "讠": {
+    "equivalent": "言"
+  },
+  "谷": {
+    "full": "zhv̖fiu̠ge̠lei̗",
+    "reading": "zhv̖fiu̠gei̠"
+  },
+  "豆": {
+    "full": "du̗doúhi̅pei̅",
+    "reading": "doúhei̅pə"
+  },
+  "豕": {
+    "full": "da̅fi̗cha̅chau̗",
+    "reading": "dai̠chau̠"
+  },
+  "豸": {
+    "full": "zhi̅xui̅fə̗cha̅",
+    "reading": "zhui̅fə̗cha̅"
+  },
+  "貝": {
+    "full": "ke̠leìhø̅fiu̖",
+    "reading": "kei̠hø̅fiu̖"
+  },
+  "贝": {
+    "equivalent": "貝"
+  },
+  "赤": {
+    "full": "du̅hui̅gia̗pi̖",
+    "reading": "dui̅gia̗pi̖"
+  },
+  "走": {
+    "full": "du̅hai̅tièzə",
+    "reading": "du̅hai̅tièzə"
+  },
+  "赱": {
+    "equivalent": "走"
+  },
+  "足": {
+    "full": "ke̠lei̗lø̖chv̠",
+    "reading": "kei̠lø̖chv̠"
+  },
+  "身": {
+    "full": "bu̅doúxèhø̅zhə",
+    "reading": "bou̠xèzhø̅"
+  },
+  "車": {
+    "full": "du̅doúte̅hai̅",
+    "reading": "dou̠tai̅"
+  },
+  "车": {
+    "equivalent": "車"
+  },
+  "辛": {
+    "full": "be̅xə̖hø̅lə",
+    "reading": "be̅xə̖lø̅"
+  },
+  "辰": {
+    "full": "ha̗tei̅luóchau̅",
+    "reading": "ha̗tei̅luóhau̅"
+  },
+  "辵": {
+    "full": "zhui̅fai̅gièzə",
+    "reading": "zhu̅hai̅gièzə"
+  },
+  "辶": {
+    "equivalent": "辵"
+  },
+  "邑": {
+    "full": "ke̠lei̗haígø̅gáxə",
+    "reading": "kei̠haígua̅xə"
+  },
+  "酉": {
+    "full": "du̅doúchv̖hø̅",
+    "reading": "dou̠chv̖hø̅"
+  },
+  "釆": {
+    "full": "zhi̅bei̅guìsə",
+    "reading": "zhei̅guìsə"
+  },
+  "里": {
+    "full": "ke̠leìhai̅tø̅",
+    "reading": "kei̠hai̅tø̅"
+  },
+  "金": {
+    "full": "zhv̠hø̅giu̅chei̅",
+    "reading": "zhv̠giu̅hui̅"
+  },
+  "釒": {
+    "equivalent": "金"
+  },
+  "钅": {
+    "equivalent": "金"
+  },
+  "長": {
+    "full": "ke̠hø̠hai̅fau̖chə",
+    "reading": "kø̠hai̅faùchə"
+  },
+  "镸": {
+    "equivalent": "長"
+  },
+  "长": {
+    "equivalent": "長"
+  },
+  "門": {
+    "full": "du̅tùhai̖doúxẽhə",
+    "reading": "du̅tai̖doúxẽhə"
+  },
+  "门": {
+    "equivalent": "門"
+  },
+  "阜": {
+    "full": "bu̅doúhe̅lei̗haĭ",
+    "reading": "bou̠lei̠haĭ"
+  },
+  "阝": {
+    "equivalent": "阜"
+  },
+  "隶": {
+    "full": "dútø̅gə̗pa̅chau̅",
+    "reading": "dútø̅gə̗pau̅"
+  },
+  "隹": {
+    "full": "zhu̅pei̅hø̅gø̅",
+    "reading": "zhui̅gø̅"
+  },
+  "雨": {
+    "full": "du̗doúxùpi̅pia̅",
+    "reading": "dou̠xùpia̅"
+  },
+  "靑": {
+    "equivalent": "青"
+  },
+  "青": {
+    "full": "de̅gø̅lø̠liáte̅",
+    "reading": "gø̠liáte̅"
+  },
+  "非": {
+    "full": "kèhø̅gei̖hø̅",
+    "reading": "kèhø̅gei̖hø̅"
+  },
+  "面": {
+    "full": "da̅lø̠loùlèhø̅",
+    "reading": "da̅lø̠le̖hø"
+  },
+  "靣": {
+    "equivalent": "面"
+  },
+  "革": {
+    "full": "dŭgei̗lø̠lei̗haĭ",
+    "reading": "duĭlø̠lai̠"
+  },
+  "韋": {
+    "full": "dáche̅lø̠lei̗hui̅hoŭ",
+    "reading": "dáche̅lø̠lui̅hoŭ"
+  },
+  "韦": {
+    "equivalent": "韋"
+  },
+  "韭": {
+    "full": "kèhø̠gei̖hø̠hə",
+    "reading": "kèhø̠gei̖hø̠"
+  },
+  "音": {
+    "full": "be̅xə̖hai̅doúte̅",
+    "reading": "be̅xai̠doúte̅"
+  },
+  "頁": {
+    "full": "di̅lø̠deìhø̠fiu̖",
+    "reading": "di̅lø̠dei̖hø̠fiu̖"
+  },
+  "页": {
+    "equivalent": "頁"
+  },
+  "風": {
+    "full": "zhe̠liáchu̅doúhaĭfau̖",
+    "reading": "zhia̠chou̠haĭfau̖"
+  },
+  "风": {
+    "equivalent": "風"
+  },
+  "飛": {
+    "full": "dv́chau̅chui̅tiúchau̅gə",
+    "reading": "dv́chai̅tiúchau̅"
+  },
+  "飞": {
+    "equivalent": "飛"
+  },
+  "食": {
+    "full": "zhv̠xø̅leìhaìrie̖ngə",
+    "reading": "zhv̠xø̅laìrie̖ngə"
+  },
+  "飠": {
+    "equivalent": "食"
+  },
+  "饣": {
+    "equivalent": "食"
+  },
+  "首": {
+    "full": "bi̖hə̅lø̠leìhø̅",
+    "reading": "bi̖hə̅lø̠lei̠"
+  },
+  "香": {
+    "full": "zhe̅luìsou̅doúte̅",
+    "reading": "zhui̅sou̅doúte̅"
+  },
+  "馬": {
+    "full": "ke̠hø̅gø̅lia̗pi̖pia̖",
+    "reading": "ke̠gø̅lia̖pia̖"
+  },
+  "马": {
+    "equivalent": "馬"
+  },
+  "骨": {
+    "full": "ke̠leìlui̅tiéle̠lia̗te̅",
+    "reading": "kei̠lui̅tie̠lia̗te̅"
+  },
+  "高": {
+    "full": "be̅lø̠lei̗lø̠lia̗ge̠lei̗",
+    "reading": "be̅lø̠lei̗hia̗ge̠lei̗"
+  },
+  "髙": {
+    "equivalent": "高"
+  },
+  "髟": {
+    "full": "ke̠hø̅hui̅rau̖chui̅chə",
+    "reading": "ke̠hui̅rau̖chui̅"
+  },
+  "鬥": {
+    "full": "ke̠haĭtei̅gø̅gia̗",
+    "reading": "kai̠tei̅gø̅gia̗"
+  },
+  "鬯": {
+    "full": "zhv̆bə̅pia̅ge̗kie̅góbə",
+    "reading": "zhv̆bia̅gie̅góbə"
+  },
+  "鬲": {
+    "full": "du̅doúhu̅doúxìpei̅lə",
+    "reading": "dou̠xìpei̅lə"
+  },
+  "鬼": {
+    "full": "bu̅doúte̅chai̖ria̠zhuósə",
+    "reading": "bou̠tai̅ria̠zhuósə"
+  },
+  "魚": {
+    "full": "zhe̖fou̅doútŭhui̅pə̖pə",
+    "reading": "zhe̖fou̠tui̠pə̖"
+  },
+  "鱼": {
+    "equivalent": "魚"
+  },
+  "鳥": {
+    "full": "be̅leìhaìtei̅lia̗pi̖pia̖",
+    "reading": "bei̅haìtei̅lia̗pia̖"
+  },
+  "鸟": {
+    "equivalent": "鳥"
+  },
+  "鹵": {
+    "full": "ke̖lø̠lièsə̅xə̖xø̅",
+    "reading": "ke̖lø̠lièxø̅"
+  },
+  "鹿": {
+    "full": "be̅fe̖loùgei̅faìrie̖góxə",
+    "reading": "be̅loùgei̅faìrie̖góxə"
+  },
+  "麥": {
+    "full": "da̅sie̖seìchv̖fø̖faŭ",
+    "reading": "da̅sie̖hei̖chv̖faŭ"
+  },
+  "麦": {
+    "equivalent": "麥"
+  },
+  "麻": {
+    "full": "be̅fei̖guìsei̖gui̖sə",
+    "reading": "be̅fui̖gui̖sə"
+  },
+  "黃": {
+    "full": "dŭgei̅lø̠leìgø̅fau̖",
+    "reading": "dŭgei̅lø̠leìgø̅fau̖"
+  },
+  "黍": {
+    "full": "zhe̅guìsie̅zou̅xìrə̖ngə",
+    "reading": "zhui̅sou̅xìrə̖ngə"
+  },
+  "黑": {
+    "full": "ke̠liàpei̅haĭhə̅pia̖pə",
+    "reading": "ke̠liàpei̅haĭpia̖"
+  },
+  "黹": {
+    "full": "ku̖pi̖hə̅po̅doúxùchv̖",
+    "reading": "kui̖huo̅doúxùchv̖"
+  },
+  "黽": {
+    "full": "ke̠leìtoùgóbeìle̖hø̖leìhə",
+    "reading": "kei̠toŭbeìlø̖lei̖hə"
+  },
+  "黾": {
+    "equivalent": "黽"
+  },
+  "鼎": {
+    "full": "ke̠leìhø̅géleìfai̖hu̗toú",
+    "reading": "kei̠hø̠gei̅fai̖toú"
+  },
+  "鼓": {
+    "full": "dŭhai̅doúhi̅pua̅choŭhuí",
+    "reading": "dui̅doúhi̅pua̅chuĭ"
+  },
+  "鼠": {
+    "full": "zhu̗tei̖leìhai̅riãxou̖riãxiu̖xə",
+    "reading": "zhui̅leìhai̅riãxou̖riãxiu̖"
+  },
+  "鼻": {
+    "full": "bu̅doúte̅hai̅doútŭhø̅fai̖",
+    "reading": "bou̠tai̅doútø̠faì"
+  },
+  "齊": {
+    "full": "be̅xə̖lø̀lia̗cha̖lósie̅geìhə",
+    "reading": "be̅lø̀lia̗cha̖lie̅geì"
+  },
+  "齐": {
+    "equivalent": "齊"
+  },
+  "齒": {
+    "full": "ke̖ge̅fiu̖chau̖hui̅sie̖soùhou̠",
+    "reading": "ke̠fiu̖chui̠sie̖soŭ"
+  },
+  "齿": {
+    "equivalent": "齒"
+  },
+  "龍": {
+    "full": "be̅xe̖hai̅doúxèhø̖géhùria̠dø̅hə",
+    "reading": "be̅xai̅doúxø̖géria̠dø̅hə"
+  },
+  "龙": {
+    "equivalent": "龍"
+  },
+  "龜": {
+    "full": "zhe̖fou̅doúte̖gùria̠tútø̅haítø̅toúfiŭhə",
+    "reading": "zhe̖dou̠te̖gəria̠tø̅haítø̅toúfiŭhə"
+  },
+  "龟": {
+    "equivalent": "龜"
+  },
+  "龠": {
+    "full": "zhu̠hø̅doúhu̖dúhu̖dúhu̖lø̠lia̗taĭgə",
+    "reading": "zhø̠dou̅du̠lia̗taĭgə"
+  },
+  "龵": {
+    "equivalent": "手"
+  },
+  "𠆢": {
+    "equivalent": "人"
+  },
+  "𠘨": {
+    "equivalent": "風"
+  }
+}
