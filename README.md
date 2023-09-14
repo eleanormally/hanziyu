@@ -13,13 +13,28 @@ tsc
 node parser.js [characters]
 ```
 
+If the character isn't already in `characters.json`, you need to press enter to confirm it.
+
 Example:
 
 ```shell
 node parser.js 漢子語
 ```
 
-If the character isn't already in `characters.json`, you need to press enter to confirm it.
+may output
+
+```
+漢
+{ type: '⿰', children: [ '氵', { type: '⿱', children: [Array] } ] }
+diáchau̗t p dŭhə
+
+子
+dágəte
+語
+{ type: '⿰', children: [ '言', { type: '⿱', children: [Array] } ] }
+be̅lø̠lei̗t da̅taíhəp ke̠ilə
+
+```
 
 ### `reader.js`
 
@@ -34,4 +49,12 @@ Example:
 
 ```shell
 node reader.mjs 漢子語
+```
+
+may output
+
+```
+漢: diáchau̗t p dŭhə
+子: dágəte
+語: undefined
 ```
